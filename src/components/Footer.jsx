@@ -35,13 +35,13 @@ const Footer = () => {
             &copy; Durjoy Barua, 2024.{" "}
           </p>
           <div className="flex gap-3 text-white">
-            <a href="https://durjoybarua.netlify.app/home">
+            <a href="https://durjoybarua.netlify.app/home" type="_blank">
               <span className="">About me</span>
             </a>
-            <a href="https://github.com/durjoy1971">
+            <a href="https://github.com/durjoy1971" type="_blank">
               <span className="border-l pl-2">Github</span>
             </a>
-            <a href="mailto:durjoybarua1971@gmail.com">
+            <a href="mailto:durjoybarua1971@gmail.com" type="_blank">
               <span className="border-l pl-2">Email</span>
             </a>
           </div>
