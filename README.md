@@ -7,7 +7,7 @@ This is a landing page built with Tailwind CSS and React.
 1. Clone the repository:
 
    ```bash
-   [git clone https://github.com/your-username/landing-page.git](https://github.com/Durjoy1971/InnovateIt-React-Landing-Page.git)
+   git clone https://github.com/your-username/landing-page.git
    ```
 
 2. Navigate to the project directory:
